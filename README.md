@@ -3,7 +3,7 @@
 
 - SQL (Оконные функции, агрегация);
 - Python (pandas, matplotlib, seaborn, sclearn);
-
+- Power BI (визуализация, DAX, Power Query)
 Вопросы для анализа:
 
 1. Какие факторы наиболее сильно связаны с наличием диабета?
